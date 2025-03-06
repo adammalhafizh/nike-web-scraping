@@ -19,7 +19,8 @@ Here are the steps:
 1. Go to the webpage of the website you want to scrapp
 2. Press F12 on your keyboard or right click on the website background and choose inspect
 3. Go to the elements tab and click on the top left cursor button
-   ![alt text](image-1.png)
+   
+![alt text](image-1.png)
    
 4. Choose the text or anything u want to get from the website and left click on it
 5. The HTML elements should be automatically selected on the elements tab
